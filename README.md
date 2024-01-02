@@ -33,7 +33,7 @@ I'm a B.Tech student in AI & Data Science, passionate about AI, ML, and robotics
 
 ### 42robotsAI
 **AI Engineer | November 2023 - Present**
-Dallas, Texas, United States
+Dallas, Texas, United States (remote)
 
 Implemented and maintained LLM language models for text data processing using TensorFlow, PyTorch, and other libraries.
 
