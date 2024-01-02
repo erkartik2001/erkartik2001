@@ -49,13 +49,13 @@ Mumbai, Maharashtra, India
 
 Worked on "3D Reconstruction Using Deep Learning," exploring GAN, VAE, NeRF, ResDepth models. Used Aerial and Satellite Image Dataset with tools like Google Earth Engine.
 
-### KSC INFOTECH PRIVATE LIMITED
+### KSC Infotech Private Limited
 **Embedded Developer | February 2023 - May 2023**
 Dewas, Madhya Pradesh, India
 
 Contributed as an embedded system developer, creating automation and IoT-based systems.
 
-### curosapien
+### Curosapien
 **Web Content Writer | February 2021 - October 2022**
 Indore, Madhya Pradesh, India
 
