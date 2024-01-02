@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Kartik Baderiya
 
-I'm a B.Tech student in AI & Data Science, passionate about AI, ML, and robotics. 
+Skilled and Project Oriented AI ML Engineer. 
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, C, C++, JavaScript
