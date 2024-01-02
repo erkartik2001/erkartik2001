@@ -23,7 +23,7 @@ I'm a B.Tech student in AI & Data Science, passionate about AI, ML, and robotics
 ### Robotics & Computer Vision
 - **Autonomous Robot Navigation:** Developed a robot navigation system using ROS and computer vision techniques to achieve autonomous navigation in dynamic environments.
 
-- **Object Detection System:** Implemented a real-time object detection system using TensorFlow and OpenCV for [Project Name].
+- **Object Detection System:** Implemented a real-time object detection system using TensorFlow and OpenCV for Autonomous Pick and Place system.
 
 ### Generative AI
 - **Artistic Style Transfer:** Created a neural network model for artistic style transfer, allowing users to transform ordinary images into various artistic styles.
@@ -63,9 +63,6 @@ Indore, Madhya Pradesh, India
 Contributed articles related to Machine Learning and robotics on the technical blog, Curosapien.
 
 ## 🌐 Contact & Links
-- **Location:** 416 Jagjeevan Ram Nagar, Indore, Madhya Pradesh, India
-- **Work Phone:** +91 9589248556
-- **Email:** baderiyakartik24@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kartikbaderiya)
 - [Blog](https://curosapien.blogspot.com/)
 
