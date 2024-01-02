@@ -10,7 +10,7 @@ I'm a B.Tech student in AI & Data Science, passionate about AI, ML, and robotics
 - **Robotics:** ROS (Robot Operating System)
 - **Generative AI:** GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders)
 
-##I've completed impactful projects showcasing my skills. Let's dive into some of them:
+## I've completed impactful projects showcasing my skills. Let's dive into some of them:
 
 ## 🚀 Projects
 
