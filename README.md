@@ -3,12 +3,13 @@
 I'm a B.Tech student in AI & Data Science, passionate about AI, ML, and robotics. 
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C++
-- **Machine Learning:** TensorFlow, PyTorch
-- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)
-- **Computer Vision:** OpenCV, Dlib
-- **Robotics:** ROS (Robot Operating System)
-- **Generative AI:** GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders)
+- **Languages:** Python, C, C++, JavaScript
+- **Machine Learning:** TensorFlow, PyTorch, Sklearn, Numpy, Pandas
+- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), 
+- **NLP and LLM:** Langchain, Llama_index, Chromadb, Pincone
+- **Computer Vision:** OpenCV, Dlib, PIL
+- **Robotics:** ROS (Robot Operating System), Arduino, Raspberrypi 
+- **Generative AI:** GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), LLMs (Bert, GPT, Llama)
 
 ## I've completed impactful projects showcasing my skills. Let's dive into some of them:
 
