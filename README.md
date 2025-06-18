@@ -1,69 +1,105 @@
 # Hi! 👋 I'm Kartik Baderiya
 
-Skilled and Project Oriented AI ML Engineer. 
+🚀 AI Engineer | LLM Specialist | Generative AI Enthusiast
+
+Skilled and Project-Oriented AI/ML Engineer passionate about solving real-world problems using Machine Learning, LLMs, and Generative AI. I build intelligent systems that bridge **human potential and machine intelligence**. From **large language models (LLMs)** to **robotics** to **vision-powered agents**, I love creating AI systems that actually work — and scale. I have hands-on experience building intelligent systems from scratch, fine-tuning large models, and developing end-to-end AI pipelines.
+
+---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C, C++, JavaScript
-- **Machine Learning:** TensorFlow, PyTorch, Sklearn, Numpy, Pandas
-- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), 
-- **NLP and LLM:** Langchain, Llama_index, Chromadb, Pincone
-- **Computer Vision:** OpenCV, Dlib, PIL
-- **Robotics:** ROS (Robot Operating System), Arduino, Raspberrypi 
-- **Generative AI:** GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), LLMs (Bert, GPT, Llama)
 
-## I've completed impactful projects showcasing my skills. Let's dive into some of them:
+- **Languages:** Python, C, C++, JavaScript, HTML/CSS, SQL, PHP
+- **Machine Learning & DL:** TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
+- **NLP & LLMs:** Langchain, LlamaIndex, ChromaDB, Pinecone, GPT-3.5/4, Llama, Bert
+- **Computer Vision:** OpenCV, Dlib, PIL, ResDepth
+- **Generative AI:** GANs, VAEs, NeRF
+- **Web Dev & APIs:** Flask, Next.js, Django, RESTful APIs, Streamlit
+- **Databases:** MySQL, PostgreSQL, Pinecone, ChromaDB
+- **Robotics & IoT:** ROS/ROS2, Arduino, Raspberry Pi, SIM800L, Gazebo
+- **Tools & Platforms:** Docker, Kubernetes, Git, GitHub, VS Code, Google Colab, Jupyter Notebook, Paperspace
+
+---
 
 ## 🚀 Projects
 
-### AI, ML, and DL
-- **Hand Gesture Recognition Robotic Arm:** Developed a robotic arm capable of recognizing hand gestures using deep learning techniques.
+### 🧠 AI, LLMs & NLP
+- **📄 DocuBot**  
+  Developed a document-based conversational agent using **Langchain**, **Pinecone**, and **GPT-4** for context-aware document assistance and Q&A. Integrated with **Streamlit** and **PostgreSQL** for deployment.  
+  _Tech: Python, GPT-4, Langchain, Pinecone, Streamlit, PostgreSQL_
 
-- **Krishi Bot:** Created a bot for Eyantra, a robotics competition by IIT Bombay, to assist in agricultural tasks using computer vision.
+- **🔍 LLM Context Generator API**  
+  Built a custom **Flask API** to dynamically generate LLM context by performing Google search and web scraping. Enhanced LLM response quality by preprocessing external content.  
+  _Tech: Python, Flask, Langchain, Pinecone, GPT-3.5, BeautifulSoup_
 
-### Robotics & Computer Vision
-- **Autonomous Robot Navigation:** Developed a robot navigation system using ROS and computer vision techniques to achieve autonomous navigation in dynamic environments.
+- **📚 GPT Doc Chatbot**  
+  Created an AI chatbot for answering questions based on uploaded documents using **LlamaIndex**, **Langchain**, and **ChromaDB** with **GPT-3.5**.  
+  _Tech: Python, Flask, Langchain, LlamaIndex, GPT-3.5, ChromaDB_
 
-- **Object Detection System:** Implemented a real-time object detection system using TensorFlow and OpenCV for Autonomous Pick and Place system.
+### 🛰️ Deep Learning & 3D Vision
+- **🧱 3D Reconstruction using DL**  
+  Implemented and tested deep learning models like **VAE**, **GAN**, and **NeRF** to reconstruct 3D environments from satellite and aerial imagery.  
+  _Tech: Python, TensorFlow, Keras, NeRF, ResDepth_
 
-### Generative AI
-- **Artistic Style Transfer:** Created a neural network model for artistic style transfer, allowing users to transform ordinary images into various artistic styles.
+### 🤖 Computer Vision & Robotics
+- **🤖 Hand Gesture Controlled Robotic Arm**  
+  Built a robotic arm using computer vision to recognize hand gestures in real-time for control input.  
+  _Tech: Python, OpenCV, TensorFlow, Arduino_
 
-- **GANs for Image Synthesis:** Implemented Generative Adversarial Networks (GANs) to generate realistic images, enhancing data augmentation capabilities.
+- **🧠 Autonomous Robot Navigation**  
+  Designed a robot navigation system using **ROS** and real-time image processing for dynamic autonomous movement.  
+  _Tech: ROS, OpenCV, Python_
+
+- **📦 Object Detection for Pick-and-Place**  
+  Created an object detection pipeline for real-time pick-and-place robotic systems using **TensorFlow** and **OpenCV**.  
+  _Tech: TensorFlow, OpenCV, Python_
+
+### 🎨 Generative AI & Emotion Systems
+- **🎭 Facial Emotion-Based Music System**  
+  Developed a music player that analyzes facial expressions to detect emotions and plays context-based music. Frontend built using **Next.js** and **Tailwind CSS**.  
+  _Tech: Python, OpenCV, TensorFlow, Next.js, Tailwind_
+
+---
 
 ## 💼 Experience
 
-### 42robotsAI
-**AI Engineer | November 2023 - Present**
-Dallas, Texas, United States (remote)
+### 🧠 42Robots.AI  
+**AI Engineer | Nov 2023 – Jan 2025**  
+📍 Remote – Dallas, Texas, USA  
+- Developed **Barnaby**, an AI email assistant that integrates with Google services (Calendar, Docs, Sheets).
+- Fine-tuned and deployed **LLMs** (GPT-3.5/4, Llama, Llama2) for custom APIs, improving response accuracy by 30%.
+- Built a Medical Research Agent (*Atticus*) using **LTM**, **MyChart API**, and vector databases.
+- Reduced latency by 25% in text processing pipelines using **Langchain**, **LlamaIndex**, **Pinecone**, and **ChromaDB**.
 
-Implemented and maintained LLM language models for text data processing using TensorFlow, PyTorch, and other libraries.
+### 🧬 Aerominds.AI  
+**Generative AI Engineer Intern | Aug 2023 – Sep 2023**  
+📍 Indore, India  
+- Improved model accuracy by 20% for NLP tasks using **GPT fine-tuning**.
+- Designed robust ML pipelines, boosting workflow efficiency by 40%.
 
-### Aerominds AI
-**Generative AI Engineer Intern | August 2023 - September 2023**
-Indore, Madhya Pradesh, India
+### 🛰️ e-Yantra (IIT Bombay)  
+**Deep Learning Intern | May 2023 – July 2023**  
+📍 Mumbai, India  
+- Explored 3D reconstruction via deep learning models like **NeRF**, **GAN**, **VAE**.
+- Worked with aerial and satellite image datasets to create geospatial 3D visualizations.
 
-Designed and implemented machine learning algorithms in the Generative AI domain, leveraging LLMs like GPT. Developed robust ML pipelines.
+### 🔌 KSC Infotech Pvt. Ltd.  
+**IoT & Embedded Developer | Feb 2023 – May 2023**  
+📍 Dewas, India  
+- Built a water-quality monitoring system using **Arduino**, **SIM800L**, and sensor integration for real-time data transmission.
+- Designed automation solutions for IoT applications.
 
-### e-Yantra, IIT Bombay
-**Summer Intern | May 2023 - July 2023**
-Mumbai, Maharashtra, India
+### ✍️ Curosapien Blog  
+**Technical Content Writer | Feb 2021 – Oct 2022**  
+📍 Indore, India  
+- Wrote technical blogs on AI, ML, and robotics to simplify concepts and share project knowledge with a broader audience.
 
-Worked on "3D Reconstruction Using Deep Learning," exploring GAN, VAE, NeRF, ResDepth models. Used Aerial and Satellite Image Dataset with tools like Google Earth Engine.
-
-### KSC Infotech Private Limited
-**Embedded Developer | February 2023 - May 2023**
-Dewas, Madhya Pradesh, India
-
-Contributed as an embedded system developer, creating automation and IoT-based systems.
-
-### Curosapien
-**Web Content Writer | February 2021 - October 2022**
-Indore, Madhya Pradesh, India
-
-Contributed articles related to Machine Learning and robotics on the technical blog, Curosapien.
+---
 
 ## 🌐 Contact & Links
-- [LinkedIn](https://www.linkedin.com/in/kartikbaderiya)
-- [Blog](https://curosapien.blogspot.com/)
 
-Feel free to explore my repositories for more details. Let's connect and discuss exciting collaborations! 😊
+- 💼 LinkedIn: [linkedin.com/in/kartikbaderiya](https://www.linkedin.com/in/kartikbaderiya)  
+- 📝 Blog: [Curosapien Blog](https://curosapien.blogspot.com/)
+
+---
+
+Feel free to explore my repositories for more technical details. I'm open to collaborations, freelance gigs, or full-time opportunities in AI and LLM product development. Let’s connect! 😊
