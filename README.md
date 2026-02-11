@@ -1,6 +1,6 @@
 # Kartik Baderiya
 
-AI Engineer focused on building practical and scalable AI systems. I work at the intersection of Large Language Models, backend engineering, and intelligent automation. My primary interest is designing AI solutions that solve real operational problems rather than just demos.
+AI Engineer focused on building practical and scalable AI systems. I work at the intersection of Large Language Models, backend engineering, and intelligent automation. My primary interest is designing AI solutions that solve real operational problems rather than just proofs of concept.
 
 ---
 
@@ -9,6 +9,15 @@ AI Engineer focused on building practical and scalable AI systems. I work at the
 I specialize in developing end-to-end AI applications—starting from problem understanding, data pipelines, model integration, to deployment and performance optimization. Most of my work revolves around LLM-powered systems, retrieval-augmented generation, intelligent agents, and AI-driven automation.
 
 I believe good AI systems are not just about models, but about solid architecture, reliable data flow, and real usability.
+
+---
+
+## GitHub Overview
+
+![Profile Views](https://komarev.com/ghpvc/?username=erkartik2001&color=blue)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkartik2001&theme=default&hide_border=true)
 
 ---
 
