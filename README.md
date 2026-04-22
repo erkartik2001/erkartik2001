@@ -87,5 +87,3 @@ Created real-time vision systems including gesture-controlled robotics and emoti
 ## Connect
 
 LinkedIn: https://linkedin.com/in/kartikbaderiya  
-Blog: https://curosapien.blogspot.com  
-GitHub: https://github.com/erkartik2001
