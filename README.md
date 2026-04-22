@@ -24,19 +24,28 @@ I believe good AI systems are not just about models, but about solid architectur
 ## Core Skills
 
 **Languages:**  
-Python, C, C++, JavaScript, SQL, HTML/CSS, PHP
+Python, C, C++, JavaScript, SQL, HTML/CSS  
 
-**AI & Machine Learning:**  
-TensorFlow, PyTorch, Scikit-learn, LangChain, LlamaIndex, Transformers, OpenAI APIs, Pinecone, ChromaDB
+**LLM Orchestration & Agents:**  
+LangGraph, CrewAI, LangChain, Microsoft AutoGen, LlamaIndex  
 
-**Computer Vision:**  
-OpenCV, Dlib, PIL
+**Generative AI & RAG:**  
+RAG pipelines, prompt engineering, semantic search, function calling  
 
-**Backend & Dev Tools:**  
-Flask, Django, REST APIs, Docker, Kubernetes, Git, PostgreSQL, MySQL
+**Models & Fine-Tuning:**  
+GPT-4o, Llama, Claude, Mistral, Hugging Face Transformers, LoRA, QLoRA  
 
-**Robotics & IoT:**  
-ROS/ROS2, Arduino, Raspberry Pi, Gazebo
+**Vector & Data Infrastructure:**  
+Pinecone, ChromaDB, Weaviate, PostgreSQL (pgvector), MongoDB  
+
+**Backend & Cloud:**  
+Python (FastAPI, Flask), REST APIs, JWT, OAuth2  
+
+**Automation & Workflows:**  
+n8n, LangSmith, Docker, Kubernetes  
+
+**Machine Learning & Computer Vision:**  
+PyTorch, Scikit-learn, NumPy, Pandas, OpenCV  
 
 ---
 
