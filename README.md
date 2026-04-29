@@ -12,15 +12,6 @@ I believe good AI systems are not just about models, but about solid architectur
 
 ---
 
-## GitHub Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=erkartik2001&color=blue)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkartik2001&theme=default&hide_border=true)
-
----
-
 ## Core Skills
 
 **Languages:**  
